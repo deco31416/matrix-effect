@@ -1,10 +1,9 @@
 # Matrix Rain Animation
 
-![GitHub license](https://img.shields.io/github/license/sumitKcs/matrix-effect)
-![GitHub stars](https://img.shields.io/github/stars/sumitKcs/matrix-effect)
-![GitHub forks](https://img.shields.io/github/forks/sumitKcs/matrix-effect)
-![GitHub issues](https://img.shields.io/github/issues/sumitKcs/matrix-effect)
-![GitHub last commit](https://img.shields.io/github/last-commit/sumitKcs/matrix-effect)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-%23000000.svg?style=flat&logo=canvas&logoColor=white)
 
 <p align="center">
   <img src="https://res.cloudinary.com/deco31416/image/upload/v1735674633/Matrix-Animation_fiu0f5.png" alt="Matrix Rain Animation Preview" width="600">
@@ -18,7 +17,7 @@ This project creates a mesmerizing matrix rain animation using the Canvas API. I
 - Dynamic toggle for a vibrant gradient color mode (via double-click or double-tap on touch devices).
 - Responsive design that adjusts to screen size.
 
-[Live Demo](https://github.com/deco31416)
+[Live Demo](https://matrix-effect-mocha.vercel.app/)
 
 ---
 
@@ -43,7 +42,7 @@ This project creates a mesmerizing matrix rain animation using the Canvas API. I
 
 1. **Clone the repository** and navigate into the folder:
    ```bash
-   git clone https://github.com/deco31416.git && cd matrix-effect
+   git clone https://github.com/deco31416/matrix-effect.git
    ```
 
 2. **Open the `index.html` file** in your browser:
@@ -92,7 +91,7 @@ To adjust colors:
 
 Check out the live version of the animation:
 
-[**Matrix Rain Effect Live Preview**](https://github.com/deco31416/matrix-effect)
+[**Matrix Effect Live Preview**](https://matrix-effect-mocha.vercel.app/)
 
 ---
 
